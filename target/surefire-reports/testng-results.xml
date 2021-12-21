@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29762" started-at="2021-12-19T18:30:48 IST" finished-at="2021-12-19T18:31:18 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29762" started-at="2021-12-19T18:30:48 IST" finished-at="2021-12-19T18:31:18 IST">
+      <class name="com.atipune.pom.tests.HomePageTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.atipune.pom.tests.HomePageTest@3a883ce7]" name="Setup" is-config="true" duration-ms="28568" started-at="2021-12-19T18:30:48 IST" finished-at="2021-12-19T18:31:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:1, instance:com.atipune.pom.tests.HomePageTest@3a883ce7]" name="verifyHomePageTitle" duration-ms="41" started-at="2021-12-19T18:31:17 IST" finished-at="2021-12-19T18:31:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="verifyNewArrivalsDisplayed()[pri:2, instance:com.atipune.pom.tests.HomePageTest@3a883ce7]" name="verifyNewArrivalsDisplayed" duration-ms="166" started-at="2021-12-19T18:31:17 IST" finished-at="2021-12-19T18:31:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewArrivalsDisplayed -->
+        <test-method status="PASS" signature="verifyFirstBookTitle()[pri:3, instance:com.atipune.pom.tests.HomePageTest@3a883ce7]" name="verifyFirstBookTitle" duration-ms="47" started-at="2021-12-19T18:31:17 IST" finished-at="2021-12-19T18:31:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFirstBookTitle -->
+        <test-method status="PASS" signature="verifySecondBookTitle()[pri:4, instance:com.atipune.pom.tests.HomePageTest@3a883ce7]" name="verifySecondBookTitle" duration-ms="44" started-at="2021-12-19T18:31:17 IST" finished-at="2021-12-19T18:31:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySecondBookTitle -->
+        <test-method status="PASS" signature="verifyThrirdBookTitle()[pri:5, instance:com.atipune.pom.tests.HomePageTest@3a883ce7]" name="verifyThrirdBookTitle" duration-ms="46" started-at="2021-12-19T18:31:17 IST" finished-at="2021-12-19T18:31:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThrirdBookTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.atipune.pom.tests.HomePageTest@3a883ce7]" name="tearDown" is-config="true" duration-ms="753" started-at="2021-12-19T18:31:17 IST" finished-at="2021-12-19T18:31:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.atipune.pom.tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

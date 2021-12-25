@@ -41,7 +41,7 @@ public class HomePageTest extends TestBase {
 	
 	@Test(priority=3)
 	public void verifyFirstBookTitle() {
-		String expectedTitleBook="Selenium Ruby";
+		String expectedTitleBook="Selenium ";
 		String actualTitleBook=homepage.getFirstBookTitle();
 		Assert.assertEquals(actualTitleBook,expectedTitleBook);
  	}
